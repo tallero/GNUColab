@@ -12,6 +12,8 @@ Actually, an instance on which this notebook has been run has become capable of 
 
 At this moment, the notebook is pre-configured to run either **MATE** or **XFCE**. 
 
+![Video demonstration](https://www.youtube.com/watch?v=l1X2Cfg-330)
+
 # Donate
 
 This notebook is provided under the **AGPL** license v3 or later.
