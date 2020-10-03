@@ -2,6 +2,8 @@
 
 *In here we set an environment in which you can persistently run desktop programs.*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tallero/GNUColab/blob/master/gnucolab.ipynb)
+
 This notebook lets you **run desktop programs on colab machines** drawn on your local terminal through VNC.
 
 To be more precise, this notebook sets up a *regular* remote personal computer, with users and configurations preserved even when the machine turns off.
